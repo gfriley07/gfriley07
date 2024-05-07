@@ -5,7 +5,7 @@
   - Computer Science
   - Data Science
 - 🌱 I’m currently learning:
-  - Master's of Data Science at the University of Pittsburgh
+  - Data Science and Data Analytics
   - Computer Science
   - Salesforce Administration
   - Salesforce Development 
