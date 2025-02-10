@@ -1,7 +1,7 @@
 # Hi there, I’m Guy Friley! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfriley)  
-**Location:** Pittsburgh, PA &bull; **Phone:** 412-759-8389
+**Location:** Pittsburgh, PA &bull;
 
 ## :wave: About Me
 I’m a **Technical Support Engineer (Tier 2)** at [Salesforce](https://www.salesforce.com/) with over **5 years** of hands-on experience in **Salesforce Administration**, **IT Operations**, and **Cloud Services**. I love diving into **debug logs**, **Flow automations**, and **SOQL** queries to resolve complex issues, while enhancing operational efficiency. Outside of work, I’m a graduate student pursuing my **Master’s in Data Science** at the University of Pittsburgh, where I plan to merge data-driven insights with my Salesforce expertise.
