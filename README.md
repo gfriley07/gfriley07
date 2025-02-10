@@ -40,6 +40,14 @@ I’m a **Technical Support Engineer (Tier 2)** at [Salesforce](https://www.sale
 
 ---
 
+## :bar_chart: Github Stats
+
+[![Guy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfriley07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfriley07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## :dragon_face: Other Interests
 **Dungeon & Dragons 5e (and beyond):**  
 - I’m a **Dungeon Master** and player, enthralled by weaving imaginative stories and strategic gameplay.  
